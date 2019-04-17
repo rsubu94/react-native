@@ -1,0 +1,3 @@
+Redux-Saga
+    redux-saga has two functions which is 
+        takeEvery and takelatest
